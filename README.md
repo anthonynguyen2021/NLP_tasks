@@ -1,5 +1,5 @@
 # NLP_tasks
-Basic tutorial on NLP tasks
+Basic tutorial on NLP task text summarization using two models
 
 ## Currently there are two transformers tutorial:
     BART
